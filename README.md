@@ -8,7 +8,7 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-#  📁 Project
+#  📁 Projects
 
 ## ☕ [A2Z Pipeline for VFX Production](https://github.com/AnthonySTZ/A2Z_Pipeline)
 
