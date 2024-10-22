@@ -22,6 +22,12 @@ This asset manager can be used to store assets and textures, create materials an
 
 ![Image](https://github.com/AnthonySTZ/AssetManager/blob/master/assets/readme/standalone.jpg)
 
+## 🎥 [Houdini USD Preview](https://github.com/AnthonySTZ/USD_Houdini)
+
+This USD Preview can be used to preview usd file before importing them inside Houdini.
+
+![Image](https://github.com/AnthonySTZ/USD_Houdini/blob/main/assets/render.jpg)
+
 ## 🖥️ [Batch Rendering using Arnold Scene Source](https://github.com/AnthonySTZ/BatchRendering)
 
 The Batch Rendering App is used to render .ass files outside of Maya, and can tracked all renders progressions.
@@ -33,9 +39,3 @@ The Batch Rendering App is used to render .ass files outside of Maya, and can tr
 Create different filters on images such as blur, edge detect, greyscale,... to learn more about their algorithms.
 
 ![Image](https://github.com/AnthonySTZ/ImageFilters/blob/main/assets/canny.jpg)
-
-## 0️⃣1️⃣ [Computer Gate Simulation](https://github.com/AnthonySTZ/ComputerSimulation)
-
-This project consists of simulating electrical gates such as AND, OR,... just for fun.
-
-![Image](https://github.com/AnthonySTZ/ComputerSimulation/blob/main/assets/interface.jpg)
