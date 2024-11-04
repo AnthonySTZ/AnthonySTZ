@@ -22,6 +22,12 @@ This asset manager can be used to store assets and textures, create materials an
 
 ![Image](https://github.com/AnthonySTZ/AssetManager/blob/master/assets/readme/standalone.jpg)
 
+## 🧊[Gnome Pipeline WIP](https://github.com/AnthonySTZ/Gnome_Pipeline)
+
+This tool can be used to manage project using an usd workflow. 
+
+![Image](https://github.com/AnthonySTZ/Gnome_Pipeline/blob/main/readme/app_interface.jpg)
+
 ## 🎥 [Houdini USD Preview](https://github.com/AnthonySTZ/USD_Houdini)
 
 This USD Preview can be used to preview usd file before importing them inside Houdini.
