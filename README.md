@@ -28,6 +28,14 @@ This tool can be used to manage project using an usd workflow.
 
 ![Image](https://github.com/AnthonySTZ/Gnome_Pipeline/blob/main/readme/app_interface.jpg)
 
+
+## ☀️ [Gui Engine](https://github.com/AnthonySTZ/GuiEngine)
+
+The purpose of this project was to learn c++ and implement OpenGL with DearImGui.
+
+![Image](https://github.com/AnthonySTZ/GuiEngine/blob/main/assets/main.jpg)
+
+
 ## 🎥 [Houdini USD Preview](https://github.com/AnthonySTZ/USD_Houdini)
 
 This USD Preview can be used to preview usd file before importing them inside Houdini.
