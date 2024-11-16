@@ -29,7 +29,7 @@ This tool can be used to manage project using an usd workflow.
 ![Image](https://github.com/AnthonySTZ/Gnome_Pipeline/blob/main/readme/app_interface.jpg)
 
 
-## ☀️ [Gui Engine](https://github.com/AnthonySTZ/GuiEngine)
+## ☀️ [Gui Engine WIP](https://github.com/AnthonySTZ/GuiEngine)
 
 The purpose of this project was to learn c++ and implement OpenGL with DearImGui.
 
