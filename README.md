@@ -36,11 +36,11 @@ The purpose of this project was to learn c++ and implement OpenGL with DearImGui
 ![Image](https://github.com/AnthonySTZ/GuiEngine/blob/main/assets/main.jpg)
 
 
-## 🎥 [Houdini USD Preview](https://github.com/AnthonySTZ/USD_Houdini)
+## 🎹 [Houdini Midi To Piano](https://github.com/AnthonySTZ/Midi-To-Piano)
 
-This USD Preview can be used to preview usd file before importing them inside Houdini.
+This script is used to preview midi files on a piano, it can help animators to avoid mistakes.
 
-![Image](https://github.com/AnthonySTZ/USD_Houdini/blob/main/assets/render.jpg)
+![Image](https://github.com/AnthonySTZ/Midi-To-Piano/blob/main/readme/piano.jpg)
 
 ## 🖥️ [Batch Rendering using Arnold Scene Source](https://github.com/AnthonySTZ/BatchRendering)
 
