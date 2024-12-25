@@ -22,11 +22,11 @@ This asset manager can be used to store assets and textures, create materials an
 
 ![Image](https://github.com/AnthonySTZ/AssetManager/blob/master/assets/readme/standalone.jpg)
 
-## 🧊[Gnome Pipeline WIP](https://github.com/AnthonySTZ/Gnome_Pipeline)
+## 🌌[Nodes Simulation](https://github.com/AnthonySTZ/Houdini-Nodes-Simulation)
 
-This tool can be used to manage project using an usd workflow. 
+If you want to rest after hard work, you can relax by watching your nodes dancing using connections as springs !
 
-![Image](https://github.com/AnthonySTZ/Gnome_Pipeline/blob/main/readme/app_interface.jpg)
+![Video](https://github.com/AnthonySTZ/Houdini-Nodes-Simulation/blob/main/readme/spring.gif)
 
 
 ## ☀️ [Gui Engine WIP](https://github.com/AnthonySTZ/GuiEngine)
@@ -48,8 +48,8 @@ The Batch Rendering App is used to render .ass files outside of Maya, and can tr
 
 ![Image](https://github.com/AnthonySTZ/BatchRendering/blob/main/assets/readme/main.jpg)
 
-## 📷 [Image Filters](https://github.com/AnthonySTZ/ImageFilters)
+## 🧊[Gnome Pipeline WIP](https://github.com/AnthonySTZ/Gnome_Pipeline)
 
-Create different filters on images such as blur, edge detect, greyscale,... to learn more about their algorithms.
+This tool can be used to manage project using an usd workflow. 
 
-![Image](https://github.com/AnthonySTZ/ImageFilters/blob/main/assets/canny.jpg)
+![Image](https://github.com/AnthonySTZ/Gnome_Pipeline/blob/main/readme/app_interface.jpg)
