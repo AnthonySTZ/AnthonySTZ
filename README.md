@@ -48,6 +48,10 @@ The Batch Rendering App is used to render .ass files outside of Maya, and can tr
 
 ![Image](https://github.com/AnthonySTZ/BatchRendering/blob/main/assets/readme/main.jpg)
 
+## 🧰 [Maya Toolkit](https://github.com/AnthonySTZ/maya_toolkit/blob/main/readme/interface.jpg)
+
+This is my Maya toolbox to speed up repetitive tasks, and I'll keep updating it with new ideas!
+
 ## 🧊[Gnome Pipeline WIP](https://github.com/AnthonySTZ/Gnome_Pipeline)
 
 This tool can be used to manage project using an usd workflow. 
