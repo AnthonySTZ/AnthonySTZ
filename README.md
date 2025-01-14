@@ -28,13 +28,11 @@ If you want to rest after hard work, you can relax by watching your nodes dancin
 
 ![Video](https://github.com/AnthonySTZ/Houdini-Nodes-Simulation/blob/main/readme/spring.gif)
 
+## 🧰 [Maya Toolkit](https://github.com/AnthonySTZ/maya_toolkit)
 
-## ☀️ [Gui Engine WIP](https://github.com/AnthonySTZ/GuiEngine)
+This is my Maya toolbox to speed up repetitive tasks, and I'll keep updating it with new ideas!
 
-The purpose of this project was to learn c++ and implement OpenGL with DearImGui.
-
-![Image](https://github.com/AnthonySTZ/GuiEngine/blob/main/assets/main.jpg)
-
+![Image](https://github.com/AnthonySTZ/maya_toolkit/blob/main/readme/interface.jpg)
 
 ## 🎹 [Houdini Midi To Piano](https://github.com/AnthonySTZ/Midi-To-Piano)
 
@@ -48,11 +46,11 @@ The Batch Rendering App is used to render .ass files outside of Maya, and can tr
 
 ![Image](https://github.com/AnthonySTZ/BatchRendering/blob/main/assets/readme/main.jpg)
 
-## 🧰 [Maya Toolkit](https://github.com/AnthonySTZ/maya_toolkit)
+## ☀️ [Gui Engine WIP](https://github.com/AnthonySTZ/GuiEngine)
 
-This is my Maya toolbox to speed up repetitive tasks, and I'll keep updating it with new ideas!
+The purpose of this project was to learn c++ and implement OpenGL with DearImGui.
 
-![Image](https://github.com/AnthonySTZ/maya_toolkit/blob/main/readme/interface.jpg)
+![Image](https://github.com/AnthonySTZ/GuiEngine/blob/main/assets/main.jpg)
 
 ## 🧊[Gnome Pipeline WIP](https://github.com/AnthonySTZ/Gnome_Pipeline)
 
