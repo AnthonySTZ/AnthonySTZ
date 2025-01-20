@@ -11,12 +11,6 @@
 
 #  📁 Projects
 
-## ☕ [A2Z Pipeline for VFX Production](https://github.com/AnthonySTZ/A2Z_Pipeline)
-
-A2Z Pipeline is a pipeline tool that can be used to manage files and directories directly from VFX software such as Maya, Mari or Nuke or via the Standalone app.
-
-![Image](https://github.com/AnthonySTZ/A2Z_Pipeline/blob/main/assets/readme/standalone.jpg)
-
 ## 🧮[Asset Manager](https://github.com/AnthonySTZ/AssetManager)
 
 This asset manager can be used to store assets and textures, create materials and assign them to assets. It has a standalone version that is used to store files and create materials, and a maya plugin to import assets and textures directly to the current scene.
@@ -40,6 +34,12 @@ This is my Maya toolbox to speed up repetitive tasks, and I'll keep updating it 
 This script is used to preview midi files on a piano, it can help animators to avoid mistakes.
 
 ![Image](https://github.com/AnthonySTZ/Midi-To-Piano/blob/main/readme/piano.jpg)
+
+## ☕ [A2Z Pipeline for VFX Production](https://github.com/AnthonySTZ/A2Z_Pipeline)
+
+A2Z Pipeline is a pipeline tool that can be used to manage files and directories directly from VFX software such as Maya, Mari or Nuke or via the Standalone app.
+
+![Image](https://github.com/AnthonySTZ/A2Z_Pipeline/blob/main/assets/readme/standalone.jpg)
 
 ## 🖥️ [Batch Rendering using Arnold Scene Source](https://github.com/AnthonySTZ/BatchRendering)
 
