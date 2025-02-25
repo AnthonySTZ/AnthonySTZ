@@ -33,6 +33,10 @@ This is my Maya toolbox to speed up repetitive tasks, and I'll keep updating it 
 
 This script is used to preview midi files on a piano, it can help animators to avoid mistakes.
 
+## 🪛 [Procedural Maya WIP](https://github.com/AnthonySTZ/ProceduralMaya)
+
+I wanted to create a procedural modeling window, similar to Houdini, inside Maya.
+
 ![Image](https://github.com/AnthonySTZ/Midi-To-Piano/blob/main/readme/piano.jpg)
 
 ## ☕ [A2Z Pipeline for VFX Production](https://github.com/AnthonySTZ/A2Z_Pipeline)
@@ -52,9 +56,3 @@ The Batch Rendering App is used to render .ass files outside of Maya, and can tr
 The purpose of this project was to learn c++ and implement OpenGL with DearImGui.
 
 ![Image](https://github.com/AnthonySTZ/GuiEngine/blob/main/assets/main.jpg)
-
-## 🧊[Gnome Pipeline WIP](https://github.com/AnthonySTZ/Gnome_Pipeline)
-
-This tool can be used to manage project using an usd workflow. 
-
-![Image](https://github.com/AnthonySTZ/Gnome_Pipeline/blob/main/readme/app_interface.jpg)
