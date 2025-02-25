@@ -33,11 +33,13 @@ This is my Maya toolbox to speed up repetitive tasks, and I'll keep updating it 
 
 This script is used to preview midi files on a piano, it can help animators to avoid mistakes.
 
+![Image](https://github.com/AnthonySTZ/Midi-To-Piano/blob/main/readme/piano.jpg)
+
 ## 🪛 [Procedural Maya WIP](https://github.com/AnthonySTZ/ProceduralMaya)
 
 I wanted to create a procedural modeling window, similar to Houdini, inside Maya.
 
-![Image](https://github.com/AnthonySTZ/Midi-To-Piano/blob/main/readme/piano.jpg)
+![Image](https://github.com/AnthonySTZ/ProceduralMaya/blob/main/readme/interface.jpg)
 
 ## ☕ [A2Z Pipeline for VFX Production](https://github.com/AnthonySTZ/A2Z_Pipeline)
 
