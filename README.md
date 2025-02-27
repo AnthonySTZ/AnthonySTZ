@@ -11,11 +11,11 @@
 
 #  📁 Projects
 
-## 🧮[Asset Manager](https://github.com/AnthonySTZ/AssetManager)
+## 🪛 [Procedural Maya WIP](https://github.com/AnthonySTZ/ProceduralMaya)
 
-This asset manager can be used to store assets and textures, create materials and assign them to assets. It has a standalone version that is used to store files and create materials, and a maya plugin to import assets and textures directly to the current scene.
+I wanted to create a procedural modeling window, similar to Houdini, inside Maya.
 
-![Image](https://github.com/AnthonySTZ/AssetManager/blob/master/assets/readme/standalone.jpg)
+![Image](https://github.com/AnthonySTZ/ProceduralMaya/blob/main/readme/interface.jpg)
 
 ## 🌌[Nodes Simulation](https://github.com/AnthonySTZ/Houdini-Nodes-Simulation)
 
@@ -35,11 +35,11 @@ This script is used to preview midi files on a piano, it can help animators to a
 
 ![Image](https://github.com/AnthonySTZ/Midi-To-Piano/blob/main/readme/piano.jpg)
 
-## 🪛 [Procedural Maya WIP](https://github.com/AnthonySTZ/ProceduralMaya)
+## 🧮[Asset Manager](https://github.com/AnthonySTZ/AssetManager)
 
-I wanted to create a procedural modeling window, similar to Houdini, inside Maya.
+This asset manager can be used to store assets and textures, create materials and assign them to assets. It has a standalone version that is used to store files and create materials, and a maya plugin to import assets and textures directly to the current scene.
 
-![Image](https://github.com/AnthonySTZ/ProceduralMaya/blob/main/readme/interface.jpg)
+![Image](https://github.com/AnthonySTZ/AssetManager/blob/master/assets/readme/standalone.jpg)
 
 ## ☕ [A2Z Pipeline for VFX Production](https://github.com/AnthonySTZ/A2Z_Pipeline)
 
