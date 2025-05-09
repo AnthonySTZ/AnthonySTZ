@@ -15,7 +15,7 @@
 
 I wanted to create a procedural modeling window, similar to Houdini, inside Maya.
 
-![Image](https://github.com/AnthonySTZ/ProceduralMaya/blob/main/readme/interface.jpg)
+![Video](https://github.com/AnthonySTZ/ProceduralMaya/blob/main/readme/demo.gif)
 
 ## 🌌[Nodes Simulation](https://github.com/AnthonySTZ/Houdini-Nodes-Simulation)
 
