@@ -35,6 +35,12 @@ This script is used to preview midi files on a piano, it can help animators to a
 
 ![Image](https://github.com/AnthonySTZ/Midi-To-Piano/blob/main/readme/piano.jpg)
 
+## 🌎 [Euclide 3D Engine WIP](https://github.com/AnthonySTZ/EuclideOpenGL)
+
+I wanted to create a 3D node-based engine from scratch in C++/OpenGL.
+
+![Image](https://github.com/AnthonySTZ/EuclideOpenGL/blob/main/readme/interface.jpg)
+
 ## 🧮[Asset Manager](https://github.com/AnthonySTZ/AssetManager)
 
 This asset manager can be used to store assets and textures, create materials and assign them to assets. It has a standalone version that is used to store files and create materials, and a maya plugin to import assets and textures directly to the current scene.
@@ -52,9 +58,3 @@ A2Z Pipeline is a pipeline tool that can be used to manage files and directories
 The Batch Rendering App is used to render .ass files outside of Maya, and can tracked all renders progressions.
 
 ![Image](https://github.com/AnthonySTZ/BatchRendering/blob/main/assets/readme/main.jpg)
-
-## ☀️ [Gui Engine WIP](https://github.com/AnthonySTZ/GuiEngine)
-
-The purpose of this project was to learn c++ and implement OpenGL with DearImGui.
-
-![Image](https://github.com/AnthonySTZ/GuiEngine/blob/main/assets/main.jpg)
