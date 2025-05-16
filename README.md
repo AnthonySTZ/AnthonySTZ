@@ -17,6 +17,12 @@ I wanted to create a procedural modeling window, similar to Houdini, inside Maya
 
 ![Image](https://github.com/AnthonySTZ/ProceduralMaya/blob/main/readme/interface.jpg)
 
+## 🌎 [Euclide 3D Engine WIP](https://github.com/AnthonySTZ/EuclideOpenGL)
+
+I wanted to create a 3D node-based engine from scratch in C++/OpenGL.
+
+![Image](https://github.com/AnthonySTZ/EuclideOpenGL/blob/main/readme/interface.jpg)
+
 ## 🌌[Nodes Simulation](https://github.com/AnthonySTZ/Houdini-Nodes-Simulation)
 
 If you want to rest after hard work, you can relax by watching your nodes dancing using connections as springs !
@@ -34,12 +40,6 @@ This is my Maya toolbox to speed up repetitive tasks, and I'll keep updating it 
 This script is used to preview midi files on a piano, it can help animators to avoid mistakes.
 
 ![Image](https://github.com/AnthonySTZ/Midi-To-Piano/blob/main/readme/piano.jpg)
-
-## 🌎 [Euclide 3D Engine WIP](https://github.com/AnthonySTZ/EuclideOpenGL)
-
-I wanted to create a 3D node-based engine from scratch in C++/OpenGL.
-
-![Image](https://github.com/AnthonySTZ/EuclideOpenGL/blob/main/readme/interface.jpg)
 
 ## 🧮[Asset Manager](https://github.com/AnthonySTZ/AssetManager)
 
