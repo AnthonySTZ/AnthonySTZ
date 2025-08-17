@@ -11,17 +11,17 @@
 
 #  📁 Projects
 
-## 🪛 [Procedural Maya](https://github.com/AnthonySTZ/ProceduralMaya)
-
-I wanted to create a procedural modeling window, similar to Houdini, inside Maya.
-
-![Image](https://github.com/AnthonySTZ/ProceduralMaya/blob/main/readme/interface.jpg)
-
 ## 🌎 [Euclide 3D Engine](https://github.com/AnthonySTZ/EuclideOpenGL)
 
 I wanted to create a 3D node-based engine from scratch in C++/OpenGL.
 
 ![Image](https://github.com/AnthonySTZ/EuclideOpenGL/blob/main/readme/interface.jpg)
+
+## 🪛 [Procedural Maya](https://github.com/AnthonySTZ/ProceduralMaya)
+
+I wanted to create a procedural modeling window, similar to Houdini, inside Maya.
+
+![Image](https://github.com/AnthonySTZ/ProceduralMaya/blob/main/readme/interface.jpg)
 
 ## 🌌[Nodes Simulation](https://github.com/AnthonySTZ/Houdini-Nodes-Simulation)
 
