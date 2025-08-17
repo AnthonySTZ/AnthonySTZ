@@ -11,13 +11,13 @@
 
 #  📁 Projects
 
-## 🪛 [Procedural Maya WIP](https://github.com/AnthonySTZ/ProceduralMaya)
+## 🪛 [Procedural Maya](https://github.com/AnthonySTZ/ProceduralMaya)
 
 I wanted to create a procedural modeling window, similar to Houdini, inside Maya.
 
 ![Image](https://github.com/AnthonySTZ/ProceduralMaya/blob/main/readme/interface.jpg)
 
-## 🌎 [Euclide 3D Engine WIP](https://github.com/AnthonySTZ/EuclideOpenGL)
+## 🌎 [Euclide 3D Engine](https://github.com/AnthonySTZ/EuclideOpenGL)
 
 I wanted to create a 3D node-based engine from scratch in C++/OpenGL.
 
