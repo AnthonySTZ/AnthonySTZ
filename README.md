@@ -29,32 +29,14 @@ If you want to rest after hard work, you can relax by watching your nodes dancin
 
 ![Video](https://github.com/AnthonySTZ/Houdini-Nodes-Simulation/blob/main/readme/spring.gif)
 
-## 🧰 [Maya Toolkit](https://github.com/AnthonySTZ/maya_toolkit)
-
-This is my Maya toolbox to speed up repetitive tasks, and I'll keep updating it with new ideas!
-
-![Image](https://github.com/AnthonySTZ/maya_toolkit/blob/main/readme/interface.jpg)
-
 ## 🎹 [Houdini Midi To Piano](https://github.com/AnthonySTZ/Midi-To-Piano)
 
 This script is used to preview midi files on a piano, it can help animators to avoid mistakes.
 
 ![Image](https://github.com/AnthonySTZ/Midi-To-Piano/blob/main/readme/piano.jpg)
 
-## 🧮[Asset Manager](https://github.com/AnthonySTZ/AssetManager)
+## 🧰 [Maya Toolkit](https://github.com/AnthonySTZ/maya_toolkit)
 
-This asset manager can be used to store assets and textures, create materials and assign them to assets. It has a standalone version that is used to store files and create materials, and a maya plugin to import assets and textures directly to the current scene.
+This is my Maya toolbox to speed up repetitive tasks, and I'll keep updating it with new ideas!
 
-![Image](https://github.com/AnthonySTZ/AssetManager/blob/master/assets/readme/standalone.jpg)
-
-## ☕ [A2Z Pipeline for VFX Production](https://github.com/AnthonySTZ/A2Z_Pipeline)
-
-A2Z Pipeline is a pipeline tool that can be used to manage files and directories directly from VFX software such as Maya, Mari or Nuke or via the Standalone app.
-
-![Image](https://github.com/AnthonySTZ/A2Z_Pipeline/blob/main/assets/readme/standalone.jpg)
-
-## 🖥️ [Batch Rendering using Arnold Scene Source](https://github.com/AnthonySTZ/BatchRendering)
-
-The Batch Rendering App is used to render .ass files outside of Maya, and can tracked all renders progressions.
-
-![Image](https://github.com/AnthonySTZ/BatchRendering/blob/main/assets/readme/main.jpg)
+![Image](https://github.com/AnthonySTZ/maya_toolkit/blob/main/readme/interface.jpg)
