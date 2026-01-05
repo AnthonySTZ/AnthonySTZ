@@ -15,7 +15,7 @@
 
 A 3d node-base procedural engine inspired by Sidefx Houdini.
 
-![Image](https://github.com/AnthonySTZ/Euclide/docs/images/euclide.jpg)
+![Image](https://raw.githubusercontent.com/AnthonySTZ/Euclide/refs/heads/master/docs/images/euclide.png)
 
 ## 🪛 [Procedural Maya](https://github.com/AnthonySTZ/ProceduralMaya)
 
