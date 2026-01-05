@@ -11,11 +11,11 @@
 
 #  📁 Projects
 
-## 🌎 [Euclide 3D Engine](https://github.com/AnthonySTZ/EuclideOpenGL)
+## 🌎 [Euclide](https://github.com/AnthonySTZ/Euclide)
 
-I wanted to create a 3D node-based engine from scratch in C++/OpenGL.
+A 3d node-base procedural engine inspired by Sidefx Houdini.
 
-![Image](https://github.com/AnthonySTZ/EuclideOpenGL/blob/main/readme/interface.jpg)
+![Image](https://github.com/AnthonySTZ/Euclide/docs/images/euclide.jpg)
 
 ## 🪛 [Procedural Maya](https://github.com/AnthonySTZ/ProceduralMaya)
 
