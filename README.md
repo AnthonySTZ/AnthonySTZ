@@ -13,7 +13,7 @@
 
 ## 🌎 [Euclide](https://github.com/AnthonySTZ/Euclide)
 
-A 3d node-base procedural engine inspired by Sidefx Houdini.
+A 3d node-based procedural engine inspired by Sidefx Houdini.
 
 ![Image](https://raw.githubusercontent.com/AnthonySTZ/Euclide/refs/heads/master/docs/images/euclide.png)
 
